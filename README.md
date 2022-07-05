@@ -26,3 +26,5 @@ chmod +x installer
 * **官网**：[矩阵低代码](https://www.deepmatrix.cn)
 * **相关资料**： [文档](https://www.yuque.com/dawei-ktv92)
 * **线上演示版本**： [https://server.deepmatrix.cn](https://server.deepmatrix.cn)  账户：15000000000 密码：123456
+
+#### 下载请查看release，会经常更新的（https://github.com/summerness/dlowcode/releases/download/v1.0.0/setup.zip）
