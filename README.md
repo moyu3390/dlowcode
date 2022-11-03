@@ -1,3 +1,25 @@
+####  matrix no-code platform package 
+####  runtime system : centos7
+####  Installation：
+```
+unzip setup.zip
+chmod +x installer
+./installer
+```
+user:15000000000 passwd:123456
+
+#### the terminal will print a code  when the setup is finished, send it to me  to get the activation code, email:39141862@qq.com
+#### the code which printed at termial is the containerID of activegard container, you can also get the code by yourself.
+#### the command is
+```
+ docker inspect --format='{{.Id}}' activeguard
+
+```
+
+matrix no-code platform has been used in many factories in China. I think it's a good way to replace of the excel which always been used in some small factories.
+i can help to add multilingual support for the platform if someone from other countries want to use it.
+
+
 #### 矩阵低代码安装包
 #### [安装文档](https://www.yuque.com/docs/share/6fb0e17e-3d5b-4291-be72-bf23e0d8f493?#)
 
